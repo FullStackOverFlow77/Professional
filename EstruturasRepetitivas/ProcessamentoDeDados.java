@@ -1,3 +1,4 @@
+package EstruturasRepetitivas;
 public class ProcessamentoDeDados{
     public static void main(String[]args){
         int x = 5 ; 
